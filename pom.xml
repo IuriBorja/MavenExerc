@@ -11,9 +11,9 @@
 
     <dependencies>
         <dependency>
-                <groupId>org.webjars.npm</groupId>
-                    <artifactId>prompt</artifactId>
-                <version>1.0.0</version>
+                <groupId>org.academiadecodigo.bootcamp</groupId>
+                    <artifactId>prompt-view</artifactId>
+                <version>0.2.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
@@ -37,7 +37,7 @@
                     <configuration>
                         <archive>
                             <manifest>
-                                <mainClass>academiadecodigo.heroisdovar.HelloWorld</mainClass>
+                                <mainClass>org.example.HelloWorld</mainClass>
                             </manifest>
                         </archive>
                     </configuration>
